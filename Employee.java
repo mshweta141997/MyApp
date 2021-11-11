@@ -1,4 +1,4 @@
 public class Employee{
          int empId;
-         String empName
+         String empName; (added semi colan)
 }
